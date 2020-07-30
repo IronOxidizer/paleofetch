@@ -17,7 +17,7 @@ char *LOGO[] = {
     " `yddddddddddddddddddddddddddddddddddy`    ",
     "  `sdddddddddddddddddddddddddddddddds`     ",
     "    +dddddddddddddddddddddddddddddd+       ",
-    "     /ddddddddddddddddddddddddddd/         ",
+    "     /dddddddddddddddddddddddddddd/        ",
     "      :dddddddddddddddddddddddddd:         ",
     "       .hddddddddddddddddddddddh.          "
 };
