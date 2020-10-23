@@ -1,5 +1,7 @@
-paleofetch
+paleofetch-alpine
 ==========
+
+A fork of paleofetch for Alpine Linux
 
 A rewrite of [neofetch](https://github.com/dylanaraps/neofetch) in C.
 Currently only supports Linux and Xorg.
